@@ -55,7 +55,7 @@ export const metadata = {
     siteName: "Deepak Rawat Portfolio",
     images: [
       {
-        url: "https://deepakrawat18.me/preview.png",
+        url: "https://deepakrawat18.me/retro_avatar.png",
         width: 1200,
         height: 630,
         alt: "Deepak Rawat portfolio preview",
@@ -66,7 +66,10 @@ export const metadata = {
     card: "summary_large_image",
     title: "Deepak Rawat | Freelancer & Fullstack Developer",
     description: "SEO friendly website development and fullstack solutions by Deepak Rawat.",
-    images: ["https://deepakrawat18.me/preview.png"],
+    images: ["https://deepakrawat18.me/retro_avatar.png"],
+  },
+  icons: {
+    icon: "/favicon.ico",
   },
 };
 
