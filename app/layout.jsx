@@ -20,6 +20,12 @@ export const metadata = {
   description:
     "Deepak Rawat (dpkrwt) is a freelancer and fullstack developer building SEO friendly websites, modern web apps, and high-performing digital experiences.",
   keywords: [
+    "kodewithgains18",
+    "KODEWITHGAINS18",
+    "Deepak Rawat Portfolio",
+    "Deepak Rawat Portfolio Website",
+    "Deepak Rawat Portfolio Website 2024",
+    "deeapk rawat portfolio",
     "Deepak Rawat",
     "deepak rawat",
     "dpkrwt",
@@ -34,6 +40,7 @@ export const metadata = {
     "web developer",
     "React developer",
     "Next.js developer",
+
   ],
   authors: [{ name: "Deepak Rawat" }],
   robots: {
@@ -85,8 +92,8 @@ export default function RootLayout({ children }) {
       description:
         "Deepak Rawat is a freelancer and fullstack developer building SEO friendly websites and modern web apps.",
       sameAs: [
-        "https://github.com/dpkrwt21",
-        "https://www.linkedin.com/in/deepak-rawat-95003a363",
+        "https://github.com/kodewithgains18",
+        "https://www.linkedin.com/in/kodewithgains18",
       ],
       knowsAbout: [
         "Web Development",
